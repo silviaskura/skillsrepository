@@ -229,6 +229,6 @@
 [submodule "myepisodes"]
 	path = myepisodes
 	url = https://github.com/brezuicabogdan/myepisodes-skill
-[submodule "skuraskill"]
+[submodule "froga"]
 	path = froga
 	url = https://github.com/silviaskura/froga-skill
