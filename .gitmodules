@@ -232,3 +232,6 @@
 [submodule "froga"]
 	path = froga
 	url = https://github.com/silviaskura/froga-skill
+[submodule "frogamsk"]
+	path = frogamsk
+	url = https://github.com/silviaskura/frogamsk-skill
